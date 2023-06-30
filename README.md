@@ -1,5 +1,5 @@
 # pSTR
-Protein Short Tandem Repeats (pSTR) standalone. The web tool associated with this code is available in http://cbdm-01.zdv.uni-mainz.de/~munoz/pSTR/.
+Protein Short Tandem Repeats (pSTR) standalone code. The web tool associated with this code is available in http://cbdm-01.zdv.uni-mainz.de/~munoz/pSTR/.
 
 Protein Short Tandem Repeats (pSTR) are units directly adjacent to a conserved equal unit. When they are detected in a comparison between two protein sequences, they are checked for the variation of their unit number. pSTR is a code to look for the protein Short Tandem Repeats (pSTR) of a protein dataset. 
 
