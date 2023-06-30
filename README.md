@@ -22,7 +22,7 @@ R version >= 3.6.1
 R packages (& dependencies):
 ggplot2 >= v.3.2.1
 
-OUTPUTS
+OUTPUTS 
 They will be stored in folder ./NAME/, and are:
 1) NAME_pSTR.txt -> pSTR found per protein
 2) NAME_raw.txt -> epSTR found per protein pair, and mapped position in the query
