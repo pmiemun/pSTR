@@ -3,9 +3,9 @@ Protein Short Tandem Repeats (pSTR) standalone
 
 Protein Short Tandem Repeats (pSTR) are units directly adjacent to a conserved equal unit. When they are detected in a comparison between two protein sequences, they are checked for the variation of their unit number. pSTR is a code to look for the protein Short Tandem Repeats (pSTR) of a protein dataset. In the following example, units in square brackets are taken as pSTR with unit number variation. They are fully conserved N- or C-terminally to themselves.
 
-AACD[ACD]EFGH -- IIKL[KL]KL
-AACD --- EFGH[II]IIKL -- KL
-**** --- **** -- **** -- **
+AACD[ACD]EFGH -- IIKL[KL]KL\n
+AACD --- EFGH[II]IIKL -- KL\n
+**** --- **** -- **** -- **\n
 
 pSTR are considered from length 2 amino acids.
 
