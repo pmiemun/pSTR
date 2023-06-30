@@ -15,10 +15,15 @@ EXAMPLE -> perl pSTR.pl example1.fasta CIRBP
 DEPENDENCIES
 
 Perl version >= v5
+
 BioPerl version >= 1.7.6
+
 Bio::SeqIO package. Can be installed using the cpan repository.
+
 R version >= 3.6.1
+
 R packages (& dependencies):
+
 ggplot2 >= v.3.2.1
 
 OUTPUTS -> They will be stored in folder ./NAME/, and are:
